@@ -5,8 +5,8 @@ A place for you to share your work with others &amp; gain more downloads!
 Categories:
 <br>
 ### Icon Packs
-| Name of category |        |
- ---------------- | ------------- 
+| Name of category |
+ ---------------- | 
 [Black &amp; White](Icon-Packs/black-&-white.md) |
 [Classic](Icon-Packs/classic.md) |
 [Dark](Icon-Packs/dark.md) |
