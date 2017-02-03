@@ -18,3 +18,19 @@ Categories:
 [Retro](Icon-Packs/retro.md) |
 [SteamPunk](Icon-Packs/steampunk.md) |
 [Un-Categorized](Icon-Packs/un-categorized.md) |
+<br>
+<br>
+### CM Themes
+| Name of category |
+ ---------------- | 
+[Black &amp; White](CM-Themes/black-&-white.md) |
+[Classic](CM-Themes/classic.md) |
+[Dark](CM-Themes/dark.md) |
+[Flat](CM-Themes/flat.md) |
+[Light](CM-Themes/light.md) |
+[Material](CM-Themes/material.md) |
+[Old School](CM-Themes/old-school.md) |
+[Original](CM-Themes/original.md) |
+[Retro](CM-Themes/retro.md) |
+[SteamPunk](CM-Themes/steampunk.md) |
+[Un-Categorized](CM-Themes/un-categorized.md) |
