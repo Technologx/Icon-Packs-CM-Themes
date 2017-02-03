@@ -4,6 +4,6 @@
 <a href='#a'>A</a>
 <br>
 ## <a href='#a'>A</a>
-Theme Title                  | Theme Description               | Preview             | Download 
+Icon Pack Title                  | Icon Pack Description               | Preview             | Download 
 :------------------------ | :------------------------: | :------------------------: | :------------------------:
 | | | |
