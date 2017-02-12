@@ -1,4 +1,4 @@
-<h4>Total Icons Added:</h4><i>2</i> | <h4>Total CM Themes Added:</h4><i>0</i>
+<h4>Total Icons Added:</h4><i>2</i>  <h4>Total CM Themes Added:</h4><i>0</i>
 # Icon Packs &amp; CM Themes
 A place for you to share your work with others &amp; gain more downloads!<br>
 Now when you add your icon pack or cm theme to the list please include a screenshot &amp; download link if you fail to do so I will reject your pull request.
